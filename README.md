@@ -1,3 +1,3 @@
 # Princeton University
 ## Programming With A Purpose
-### Lecture 1 - [Questions](https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php), [Solutions](https://github.com/AkshaySiwal/PrincetonUniversity_ProgrammingWithAPurpose/tree/main/Lecture1)
+### Lecture 1 - [Presentation](https://introcs.cs.princeton.edu/java/lectures/keynote/CS.1.Basics.pdf), [Questions](https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php), [Solutions](https://github.com/AkshaySiwal/PrincetonUniversity_ProgrammingWithAPurpose/tree/main/Lecture1)
